@@ -538,7 +538,7 @@ div#txt {
   .dmy {
     padding: 0;
     margin-bottom: 35px;
-    text-align: center;
+    text-align: left;
     width: 100%;
   }
   div#txt {
@@ -548,8 +548,9 @@ div#txt {
     font-size: 22px;
   }
   .temperature {
-    text-align: center;
+    text-align: right;
     width: 100%;
+    padding: 0 0 5px 0;
   }
   .copyright {
     padding: 20px;
