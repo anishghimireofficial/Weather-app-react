@@ -12,7 +12,7 @@ function App() {
       <div className="footer-info">
         <span className=" footer">
           Developed by | &nbsp;
-          <a target="_blank" href="https://www.gauravghai.dev/">
+          <a target="_blank" href="https://anish-ghimire.com.np/">
             Anish Sharma Ghimire
           </a>
         </span>
